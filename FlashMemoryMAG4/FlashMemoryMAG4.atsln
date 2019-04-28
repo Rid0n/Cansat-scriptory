@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "FlashMemoryMAG4", "FlashMemoryMAG4\FlashMemoryMAG4.cppproj", "{41C40E84-CD4B-45C4-A256-8C0262457D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C40E84-CD4B-45C4-A256-8C0262457D73}.Debug|AVR.ActiveCfg = Debug|AVR
+		{41C40E84-CD4B-45C4-A256-8C0262457D73}.Debug|AVR.Build.0 = Debug|AVR
+		{41C40E84-CD4B-45C4-A256-8C0262457D73}.Release|AVR.ActiveCfg = Release|AVR
+		{41C40E84-CD4B-45C4-A256-8C0262457D73}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
